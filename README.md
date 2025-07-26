@@ -1,6 +1,5 @@
-<!-- Banner image -->
 <p align="center">
-  <img src="https://github.com/Ajaypundhir/Ajaypundhir/blob/main/assets/data-analytics-banner.png" alt="Data Analytics Banner" width="100%" />
+  <img src=https://github.com/user-attachments/assets/65304cad-4251-4425-adce-27ece2118b75 />
 </p>
 
 <h1 align="center">Hi, I'm Ajay Pundhir 👋</h1>
