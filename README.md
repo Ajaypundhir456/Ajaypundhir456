@@ -29,9 +29,9 @@
 
 | Project | Description | Tools Used |
 |--------|-------------|------------|
-| **Sales Analytics Dashboard** | Created an interactive Power BI dashboard with KPIs like Total Sales, Orders, ATV, and more. | Power BI, DAX, Excel |
-| **Customer Churn Analysis** | Built churn prediction reports to identify at-risk customers using SQL queries and Power BI. | SQL, Power BI |
-| **Inventory Insights** | Automated stock-level dashboards and reorder alerts for better inventory planning. | Power Query, Google Sheets |
+| **Online Sales Analytics Dashboard** | Created an interactive Power BI dashboard with KPIs like Total Sales, Orders, ATV, and more. | Power Query, Data Modeling, DAX
+| **Mobile Sales Analytics Dashboard** | Analyze mobile sales performance across multiple dimensions and KPIs like Sales, Transactions, average | SQL, Power query, DAX
+
 
 🖼️ _See my dashboards & visuals in the pinned repositories below!_
 
@@ -46,5 +46,7 @@
 ---
 
 ## 📫 Let's Connect!
+
+[LinkedIn](https://www.linkedin.com/in/ajay-pundhir-ab3a98193) | [GitHub](https://github.com/Ajaypundhir456) | 📧 Email: ajaypundhir456@gmail.com
 
 <p align="cente
